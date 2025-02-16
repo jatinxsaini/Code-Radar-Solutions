@@ -1,8 +1,8 @@
 #include <studio.h>
 void main(){
-    float a,b,c,avg;
+    float a,b,c,Average;
     scanf("%f%f%f",&a,&b,&c);
-    avg=(a+b+c)/3;
+    Average=(a+b+c)/3;
     printf("Average: %.2f",avg);
     return 0;
 }
