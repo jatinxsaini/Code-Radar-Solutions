@@ -1,4 +1,3 @@
-// Your code here...
 #include <studio.h>
 void main(){
     float a,b,c;
