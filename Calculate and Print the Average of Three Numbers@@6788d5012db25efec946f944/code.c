@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 void main(){
     float a,b,c,Average;
     scanf("%f%f%f",&a,&b,&c);
