@@ -2,5 +2,5 @@
 void main(){
     char str[100];
     scanf("%s",str);
-    print("You entered: %s",str);
+    printf("You entered: %s",str);
 }
