@@ -1,5 +1,5 @@
 // Your code here...
-#include <studio.ih>
+#include <studio.h>
 int main(){
     float a,b,c;
     float avg;
