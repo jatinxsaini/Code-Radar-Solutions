@@ -7,5 +7,6 @@ int main(){
     else{
         print("Invalid");
     }
+    return 0;
 }
 }
