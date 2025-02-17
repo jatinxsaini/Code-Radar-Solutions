@@ -5,7 +5,7 @@ int main(){
     if((((a*a)+(b*b)) >=c) || (((c*c)+(b*b)) >=a) || (((c*c)+(a*a)) >=b)){
         printf("Valid");
     else{
-        print("Invalid")
+        print("Invalid");
     }
 }
 }
